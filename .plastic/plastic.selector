@@ -1,0 +1,4 @@
+repository "TheEndOfEternity@DuckGame23@cloud"
+  path "/"
+    smartbranch "/main/inventory" 
+     
