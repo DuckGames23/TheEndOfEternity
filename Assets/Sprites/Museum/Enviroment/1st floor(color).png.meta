@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -3276,15 +3276,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 1st floor(color)_151
+      name: 1st floor(color)_1511
       rect:
         serializedVersion: 2
         x: 248
         y: 378
         width: 16
         height: 16
-      alignment: 9
-      pivot: {x: 0.4878235, y: 0.4878254}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4057,7 +4057,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 281
+        y: 287
         width: 16
         height: 16
       alignment: 0
@@ -4078,7 +4078,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 176
-        y: 281
+        y: 287
         width: 16
         height: 16
       alignment: 0
@@ -4099,7 +4099,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 265
+        y: 271
         width: 16
         height: 16
       alignment: 0
@@ -4120,7 +4120,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 249
+        y: 255
         width: 16
         height: 16
       alignment: 0
@@ -4141,7 +4141,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 176
-        y: 265
+        y: 271
         width: 16
         height: 16
       alignment: 0
@@ -4162,7 +4162,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 265
+        y: 271
         width: 16
         height: 16
       alignment: 0
@@ -4183,7 +4183,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 208
-        y: 265
+        y: 271
         width: 16
         height: 16
       alignment: 0
@@ -4204,7 +4204,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 224
-        y: 265
+        y: 271
         width: 16
         height: 16
       alignment: 0
@@ -4225,7 +4225,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 281
+        y: 287
         width: 16
         height: 16
       alignment: 0
@@ -4246,7 +4246,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 208
-        y: 281
+        y: 287
         width: 16
         height: 16
       alignment: 0
@@ -4267,7 +4267,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 224
-        y: 281
+        y: 287
         width: 16
         height: 16
       alignment: 0
@@ -4288,7 +4288,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 176
-        y: 249
+        y: 255
         width: 16
         height: 16
       alignment: 0
@@ -4309,7 +4309,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 249
+        y: 255
         width: 16
         height: 16
       alignment: 0
@@ -4330,7 +4330,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 208
-        y: 249
+        y: 255
         width: 16
         height: 16
       alignment: 0
@@ -4351,7 +4351,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 224
-        y: 249
+        y: 255
         width: 16
         height: 16
       alignment: 0
@@ -7799,7 +7799,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -7820,7 +7820,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -7828,6 +7828,90 @@ TextureImporter:
       bones: []
       spriteID: 0b9a1dfa190d3ae47b8c5aca0b148b94
       internalID: -1526885214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st floor(color)_368
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 281
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc3747f7b9e87c4ba059dbfda714480
+      internalID: -187014988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st floor(color)_369
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ba98383d648bd41925de91de1c4cee
+      internalID: 967261881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st floor(color)_370
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed53317da0ec8b54fa315eb41b01b4c3
+      internalID: 1221577190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st floor(color)_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ae392952473640ab2918684e4827d
+      internalID: -257887281
       vertices: []
       indices: 
       edges: []
@@ -7979,7 +8063,7 @@ TextureImporter:
       1st floor(color)_32: 1215391554
       1st floor(color)_87: -1794592826
       1st floor(color)_240: 1886169256
-      1st floor(color)_151: 1393897979
+      1st floor(color)_151: -257887281
       1st floor(color)_305: -1191570813
       1st floor(color)_182: 1788565713
       1st floor(color)_159: 280848386
@@ -8004,6 +8088,7 @@ TextureImporter:
       1st floor(color)_289: 724304425
       1st floor(color)_334: 389604245
       1st floor(color)_52: -1266312128
+      1st floor(color)_370: 1221577190
       1st floor(color)_51: 1051016512
       1st floor(color)_321: 855587105
       1st floor(color)_104: 603821648
@@ -8033,6 +8118,7 @@ TextureImporter:
       1st floor(color)_190: -1751897002
       1st floor(color)_207: 1583423593
       1st floor(color)_152: -1496200678
+      1st floor(color)_368: -187014988
       1st floor(color)_69: -714674673
       1st floor(color)_223: -1329000004
       1st floor(color)_307: 546338022
@@ -8097,6 +8183,7 @@ TextureImporter:
       1st floor(color)_362: 697556202
       1st floor(color)_300: -240474943
       1st floor(color)_135: -483601327
+      1st floor(color)_369: 967261881
       1st floor(color)_346: 1184365822
       1st floor(color)_96: -1640710214
       1st floor(color)_271: -1045828021
@@ -8122,6 +8209,7 @@ TextureImporter:
       1st floor(color)_253: 193880867
       1st floor(color)_269: -1481684545
       1st floor(color)_287: 649875068
+      1st floor(color)_1511: 1393897979
       1st floor(color)_315: -1811056455
       1st floor(color)_75: 339323534
       1st floor(color)_213: 1093552665

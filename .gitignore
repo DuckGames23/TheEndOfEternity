@@ -73,3 +73,5 @@ crashlytics-build.properties
 
 .plastic
 .vsconfig
+.plastic/plastic.wktree
+*.wktree
