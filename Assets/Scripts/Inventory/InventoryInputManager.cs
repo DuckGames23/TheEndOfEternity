@@ -10,7 +10,7 @@ public class InventoryInputManager : MonoBehaviour
     {
         if (Input.anyKeyDown && _numbers.Contains(Input.inputString) && !Input.GetMouseButton(0) && !Input.GetMouseButton(1))
         {
-            GetComponent<InventoryController>().CurrentItemNumber = Convert.ToInt32(Input.inputString);
+            //GetComponent<InventoryController>().CurrentItemNumber = Convert.ToInt32(Input.inputString);
         }
     }
 }

@@ -12,7 +12,7 @@ public class InventorySavesTest : MonoBehaviour
         InventoryController controller = GetComponent<InventoryController>();
         for(int i = 0; i < 6; i++)
         {
-            controller.SetNewItemToCell(i, _items[i]);
+            //controller.SetNewItemToCell(i, _items[i]);
         }
     }
 }
